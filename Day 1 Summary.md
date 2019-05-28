@@ -192,7 +192,3 @@
      - 小括号的嵌套要加空格
      - 双引号，单引号嵌套 " '' " ' "" '
 
-   - 基本格式
-
-     - ![JavaScript](C:\Users\QingFeng_TY\Desktop\JavaScript.jpg)
-
