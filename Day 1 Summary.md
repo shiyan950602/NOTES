@@ -159,7 +159,7 @@
 
 10. 优先级
 
-  - ```javascript
+   - ```javascript
     !  ++  --  typeof   +(正）  -（负）
     *  /   %
     +  -
