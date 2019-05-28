@@ -16,5 +16,5 @@
    - 格式：switch(表达式){case 表达式：语句组；[break；]case 表达式：语句组；[break；]case 表达式：语句组；[break；][default:语句组 }
    - 逻辑思想：当程序执行到switch时，计算表达式的值，当该值与下面某个case后表达式的值一致时，执行该case后的语句组。如果语句组有break,则直接跳出switch语句。否则继续执行该语句组后所有的语句组，直到遇到break或右大括号时，跳出switch语句
 6. 算数运算中保留小数的方法
-   - toFixed（2）：保留两位小数  
+   - tofixed（2）：保留两位小数  
 
