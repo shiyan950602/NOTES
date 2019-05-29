@@ -110,7 +110,8 @@
        }else{
        let storage = window.localStorage;
        storage['product_' + goodId] = 
-       '{"id" : ' + goodId + ',"name" : "' + goodName + '","price" : ' + goodPrice + ',"num" : ' + goodNum + '}';
+       '{"id" : ' + goodId + ',"name" : "' + goodName + '","price" :
+       ' + goodPrice + ',"num" : ' + goodNum + '}';
        			}
        		}
        	}
