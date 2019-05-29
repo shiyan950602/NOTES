@@ -26,7 +26,8 @@
      for(var i = 0;i <
      childs.length;i ++){
      //遍历是否为文本节点，且该文本是空白
-     if(childs[i].nodeType === 3&&/^\s+$/.test(childs[i].nodeValue)){                           node.removeChild(childs[i]);
+     if(childs[i].nodeType === 3&&/^\s+$/.test(childs[i].nodeValue)){                           
+     node.removeChild(childs[i]);
      //删除空白文本子节点
                           }
              }
