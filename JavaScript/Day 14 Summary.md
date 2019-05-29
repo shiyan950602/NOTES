@@ -109,7 +109,8 @@
        alert('浏览器不支持!');
        }else{
        let storage = window.localStorage;
-       storage['product_' + goodId] = '{"id" : ' + goodId + ',"name" : "' + goodName + '","price" : ' + goodPrice + ',"num" : ' + goodNum + '}';
+       storage['product_' + goodId] = 
+       '{"id" : ' + goodId + ',"name" : "' + goodName + '","price" : ' + goodPrice + ',"num" : ' + goodNum + '}';
        			}
        		}
        	}
