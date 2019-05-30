@@ -17,5 +17,5 @@ NOTES is my own diary for jacascript when I learning this language to write the 
 
 ## License
 
-2019-2020 LU Yi
+© 2019-2020 LU Yi
 
