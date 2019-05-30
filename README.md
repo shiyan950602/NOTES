@@ -14,7 +14,5 @@ NOTES is my own diary for jacascript when I learning this language to write the 
 - All of this files is about frontend developer.
 - All of this computer language is use Javascript.
 
-## Contact
+<p align='center'>2019-2020 LU Yi</p>
 
-- Twitter: https://twitter.com/Tengcci
-- Weibo ID:丘野Pixel
