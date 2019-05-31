@@ -19,7 +19,7 @@
    - childNodes ： 获取当前对象中所有的子节点（包含文本节点与元素节点）
 
    - ```javascript
-     //删除空白文本子节点
+     //删 除空白文本子节点
      
      function removeSpace(node){
          var childs = node.childNodes;   
