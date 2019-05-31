@@ -48,7 +48,7 @@
 
 5. offsetWidth  offsetHeight
 
-   - offstWidth  获取当前对象的实际宽度（width + border + padding）
+   - offsetWidth  获取当前对象的实际宽度（width + border + padding）
    - offsetHeight  获取当前对象的实际高度（height + border + padding）
 
 6. offsetLeft   offsetTop 
