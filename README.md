@@ -10,7 +10,7 @@ NOTES is my own diary for javascript when I learning this language to write the 
 
 ##  Announce
 
-- All of this documents is creat by myself.
+- All of this documents is create by myself.
 - All of this files is about frontend developer.
 - All of this computer language is use Javascript.
 
