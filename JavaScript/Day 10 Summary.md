@@ -23,8 +23,7 @@
      
      function removeSpace(node){
          var childs = node.childNodes;   
-     for(var i = 0;i <
-     childs.length;i ++){     
+     for(var i = 0;i < childs.length;i ++){     
      if(childs[i].nodeType === 3&&/^\s+$/.test(childs[i].nodeValue)){                           
      node.removeChild(childs[i]);
                           }
